@@ -6,10 +6,10 @@
 - 🔭 Currently learning Data Science & Machine Learning
 - 🌱 Passionate about turning data into insights
 - 💼 Open to internships and entry-level opportunities
-- 📍 India
+- 📍 Hyderabad 
 
 ## 🛠️ Skills
-- **Languages:** Python
+- **Languages:** Python, Java, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Google Colab, GitHub, Jupyter Notebook
 - **Areas:** Data Analysis, Machine Learning, NLP, Neural Networks
